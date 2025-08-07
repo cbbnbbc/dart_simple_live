@@ -1,0 +1,7 @@
+{
+    "version": "1.10.5",
+    "version_num": 10605,
+    "version_desc": "- 修复douyin",
+    "prerelease":true,
+    "download_url": "https://github.com/cbbnbbc/dart_simple_live/releases"
+}
