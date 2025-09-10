@@ -16,7 +16,7 @@
          - name: Checkout fork
            uses: actions/checkout@v4
            with:
-             ref: main  # 你的分支名（可能是 main 或 master）
+             ref: master  # 你的分支名（可能是 main 或 master）
              
          - name: Add upstream repository
            run: |
